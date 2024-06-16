@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B95F1E26-32F6-4871-A2EB-E3DF4AE73D07}|Thegame\\Thegame.vcxproj|C:\\Users\\Lenovo\\Documents\\.SEM 6\\PGame\\code\\Thegame\\Thegame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B95F1E26-32F6-4871-A2EB-E3DF4AE73D07}|Thegame\\Thegame.vcxproj|solutionrelative:Thegame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B95F1E26-32F6-4871-A2EB-E3DF4AE73D07}|Thegame\\Thegame.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "vector",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
-              "ViewState": "AQIAAFMHAAAAAAAAAAAkwGIHAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-13T13:50:19.013Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
@@ -40,9 +32,9 @@
               "RelativeDocumentMoniker": "Thegame\\main.cpp",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\.SEM 6\\PGame\\code\\Thegame\\Thegame\\main.cpp",
               "RelativeToolTip": "Thegame\\main.cpp",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAqwI4AAAAAAAAA",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAKgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-09T07:53:08.85Z",
+              "WhenOpened": "2024-06-15T17:32:41.528Z",
               "EditorCaption": ""
             }
           ]
